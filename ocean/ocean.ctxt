@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ocean
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ocean\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ocean()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ocean.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addHeroShip()
+comment3.params=color
+comment3.target=void\ addEnemyShip(java.lang.String)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ displayScore()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7
